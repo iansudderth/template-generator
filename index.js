@@ -1,4 +1,4 @@
-#!usr/bin/env node
+#!env node
 
 const inquirer = require('inquirer');
 const fs = require('fs');
